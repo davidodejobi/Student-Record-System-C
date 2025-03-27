@@ -1,0 +1,9 @@
+# Student Records - Name,RollNumber,Marks
+Adokiye BOBMANUEL,1001,87.5
+Micheal Jonathan,1002,78.0
+Waheed Bakare,1003,65.5
+Bruno Nwokenna,1004,91.0
+Odunayo Adeniran,1005,82.5
+David Odejobi,1006,88.0
+Michael Chinye,1008,90.0
+Toyosi Adeoye,1009,84.5
