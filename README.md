@@ -32,7 +32,7 @@ The **Student Record System** is a simple C-based application that allows users 
 ### 🛠️ System Architecture (Text Summary)
 
 ```
-[User Interface]
+[Functions]
      |
      |---> Student Management (Add, Edit, Delete, Search, Sort)
      |
@@ -42,10 +42,8 @@ The **Student Record System** is a simple C-based application that allows users 
 ```
 
 
-
-```markdown
 [Architecture Diagram](https://excalidraw.com/#json=ckG_SyjsADjs2U_0_dLcK,nw4arQDPmLURHkWsgi8DJQ)
-```
+
 
 * * *
 
